@@ -1,6 +1,6 @@
 
 # Scientific Computing with Python
-
+# Forked by Giulia Rancati Cattaneo for the scientific computing 2025 course
 [Davide Gerosa](https://davidegerosa.com/)  - davide.gerosa@unimib.it  
 University of Milano-Bicocca, 2025-2026.
 
